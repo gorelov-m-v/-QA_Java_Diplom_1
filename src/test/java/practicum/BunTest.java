@@ -1,3 +1,5 @@
+package practicum;
+
 import org.junit.Assert;
 import org.junit.Test;
 import praktikum.Bun;
